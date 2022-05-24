@@ -16,6 +16,11 @@ public:
         this->durata=durata;
         this->nr_intrebari=nr_intrebari;
     }
+
+
+
+
+
 ~Test(){}
 void afisare()
 {
